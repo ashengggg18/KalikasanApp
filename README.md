@@ -11,14 +11,7 @@
 
 <h2>📌 Project Description</h2>
 <p>
-  <strong>Project KALIKASAN: Tracing Plastic Waste Reduction</strong> is a Java-based program designed to track 
-  and record each user’s plastic waste reduction activities. Users can input their daily plastic usage and 
-  recycling habits, and the system stores their progress using Java’s data handling and file management 
-  features.
-</p>
-<p>
-  The program generates reports showing how much plastic waste a user has reduced over time. Through this 
-  system, Java technology is used to promote environmental responsibility and encourage sustainable living.
+  <strong>Project KALIKASAN: Tracing Plastic Waste Reduction is a Java-based program that tracks and records each user’s plastic waste reduction activities. The system allows users to input data about their daily plastic usage and recycling habits. Using Java’s data handling and file management features, it securely stores and updates each user’s progress. It also generates reports showing how much plastic waste each user has reduced over time. Through this project, Java technology is used to promote environmental responsibility and encourage sustainable living practices.
 </p>
 
 <hr>
