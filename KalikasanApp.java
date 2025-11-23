@@ -22,7 +22,7 @@ public class KalikasanApp {
             try {
                 showMenu();
                 String raw = scanner.nextLine().trim();
-                if (raw.isEmpty()) { System.out.println("Please choose an option."); continue; }
+                if (raw.isEmpty()) { System.out.println("Please Choose An Option."); continue; }
                 int choice = Integer.parseInt(raw);
                 switch (choice) {
                     case 1: createUser(); break;
@@ -31,19 +31,19 @@ public class KalikasanApp {
                     case 4: showSystemSummary(); break;
                     case 5: deleteUser(); break;
                     case 0: running = false; break;
-                    default: System.out.println("Unknown option. Try again."); break;
+                    default: System.out.println("Unknown Option. Try Again."); break;
                 }
             } catch (NumberFormatException nfe) {
-                System.out.println("Please enter a valid number.");
+                System.out.println("Please Enter A Valid Number.");
             } catch (InvalidInputException iie) {
-                System.out.println("Input error: " + iie.getMessage());
+                System.out.println("Input Error: " + iie.getMessage());
             } catch (DateTimeParseException dtpe) {
-                System.out.println("Invalid date format. Use MM-DD-YYYY.");
+                System.out.println("Invalid Date Format. Use MM-DD-YYYY.");
             } catch (Exception ex) {
-                System.out.println("Unexpected error: " + ex.getMessage());
+                System.out.println("Unexpected Error: " + ex.getMessage());
             }
         }
-        System.out.println("Goodbye - keep reducing plastic!");
+        System.out.println("Goodbye - Keep Reducing Plastic!");
         scanner.close();
     }
 
@@ -189,3 +189,4 @@ public class KalikasanApp {
         System.out.println("User ID " + id + " deleted.");
     }
 }
+
