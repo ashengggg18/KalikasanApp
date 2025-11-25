@@ -38,7 +38,7 @@ Type:
 
 ## Sample Output
 example during execution:
-
+ 
 Welcome to KALIKASAN — Plastic Waste Tracker
 Menu:
 1) Create user
@@ -49,8 +49,8 @@ Menu:
 0) Exit
 Choose: 1
 Enter name: Maria
-  Choose type (1 = Student, 2 = Household, 3 = Business): 1
-  Created user: Maria (ID = 1)
+Choose type (1=Student,2=Household,3=Business): 1
+Created user: Maria (ID=1)
 
 Menu:
 Choose: 2
@@ -60,8 +60,7 @@ Plastic used (grams): 120
 Plastic recycled/avoided (grams): 80
 Entry added.
 Amazing work!
-Keep it up! Every small action shapes a more sustainable future.
-
+ Keep it up! Every small action shapes a more sustainable future.
 
 ## Author and Acknowledgement
 Author:
