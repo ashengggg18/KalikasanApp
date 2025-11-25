@@ -60,7 +60,7 @@ Plastic used (grams): 120
 Plastic recycled/avoided (grams): 80
 Entry added.
 Amazing work!
- Keep it up! Every small action shapes a more sustainable future.
+Keep it up! Every small action shapes a more sustainable future.
 
 ## Author and Acknowledgement
 Author:
