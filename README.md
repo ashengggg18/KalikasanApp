@@ -38,7 +38,7 @@ Type:
 
 ## Sample Output
 example during execution:
- 
+
 Welcome to KALIKASAN — Plastic Waste Tracker
 Menu:
 1) Create user
@@ -53,14 +53,15 @@ Enter name: Maria
   Created user: Maria (ID = 1)
 
 Menu:
-  Choose: 2
-  Enter user ID: 1
-  Date (MM-DD-YYYY) or leave blank for today: 01-21-2025
-  Plastic used (grams): 120
-  Plastic recycled/avoided (grams): 80
-  Entry added.
-  Amazing work!
-  Keep it up! Every small action shapes a more sustainable future.
+Choose: 2
+Enter user ID: 1
+Date (MM-DD-YYYY) or leave blank for today: 01-21-2025
+Plastic used (grams): 120
+Plastic recycled/avoided (grams): 80
+Entry added.
+Amazing work!
+Keep it up! Every small action shapes a more sustainable future.
+
 
 ## Author and Acknowledgement
 Author:
