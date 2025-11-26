@@ -26,16 +26,24 @@ Follow the steps below to compile and run the program using the command line:
     Copy the entire Java code into a file named KalikasanApp.java.
 
     (Make sure all classes are inside the same file.)
-3. Open the Terminal or Command Prompt
-  Navigate to the folder where KalikasanApp.java is saved using:
+2. Open the Terminal or Command Prompt
+
+Navigate to the folder where KalikasanApp.java is saved using:
+
    cd path/to/your/folder
 4. Compile the Program
+
 Type:
+
        javac KalikasanApp.java
+
 (If there are no errors, this will generate multiple .class files (one for each class)). 
 5. Run the Program
+   
     Type:
+    
      java KalikasanApp
+
 (You should now see the main menu, and you can begin interacting with the program by choosing options (1–5 or 0)).
 
 ## Sample Output
@@ -61,20 +69,32 @@ Created user: Maria
 (ID=1)
 
 Menu:
+
 Choose: 2
+
 Enter user ID: 1
+
 Date (MM-DD-YYYY) or leave blank for today: 01-21-2025
+
 Plastic used (grams): 120
+
 Plastic recycled/avoided (grams): 80
+
 Entry added.
+
 Amazing work!
+
  Keep it up! Every small action shapes a more sustainable future.
 
 ## Author and Acknowledgement
 Author:
+
 Lance Caringal
+
 Ashley Quinones 
+
 Gwen Mendoza 
+
 BSIT-2107
 
 Acknowledgements:
