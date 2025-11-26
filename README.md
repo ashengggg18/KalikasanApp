@@ -65,11 +65,11 @@ Enter name: Maria
 Choose type (1=Student,2=Household,3=Business): 1
 
 Created user: Maria 
+
 (ID=1)
 
 
-
-Menu:
+Menu
 
 Choose: 2
 
