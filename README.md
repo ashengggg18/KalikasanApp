@@ -21,18 +21,18 @@ The program is structured around several main classes, each designed to handle a
 ## How to Run the Program
 Follow the steps below to compile and run the program using the command line:
   
-1. Save the Program
+**1. Save the Program**
 
     Copy the entire Java code into a file named KalikasanApp.java.
 
     (Make sure all classes are inside the same file.)
-2. Open the Terminal or Command Prompt
+**2. Open the Terminal or Command Prompt**
 
 Navigate to the folder where KalikasanApp.java is saved using:
 
    cd path/to/your/folder
    
-3. Compile the Program
+**3. Compile the Program**
 
 Type:
 
@@ -40,7 +40,7 @@ Type:
 
 (If there are no errors, this will generate multiple .class files (one for each class)). 
 
-4. Run the Program
+**4. Run the Program**
    
     Type:
     
