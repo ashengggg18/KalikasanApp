@@ -74,12 +74,12 @@ Menu:
 5. Delete user
 0. Exit
 
-Choose: 2
-Enter user ID: 1
-Date (MM-DD-YYYY) or leave blank for today:
-Plastic used (grams): 120
-Plastic recycled/avoided (grams): 30
-Entry added.
+Choose: 2<br>
+Enter user ID: 1<br>
+Date (MM-DD-YYYY) or leave blank for today:<br>
+Plastic used (grams): 120<br>
+Plastic recycled/avoided (grams): 30<br>
+Entry added.<br>
 
 Amazing work! You're making a real difference!
 
@@ -93,14 +93,14 @@ Menu:
 5. Delete user
 0. Exit
 
-Choose: 3
+Choose: 3<br>
 
-User 1 — Ana (Student)
+User 1 — Ana (Student)<br>
 
 Entries:
-  2025-11-27 — used: 120g, recycled/avoided: 30g
+  2025-11-27 — used: 120g, recycled/avoided: 30g<br>
 
-Total reduced (grams): 30
+Total reduced (grams): 30<br>
 
 
 
