@@ -59,10 +59,10 @@ Menu:
 5. Delete user
 0. Exit
 
-Choose: 1
-Enter name: Ana
-Choose type (1 = Student, 2 = Household, 3 = Business): 1
-Created user: Ana (ID = 1)
+Choose: 1<br>
+Enter name: Ana<br>
+Choose type (1 = Student, 2 = Household, 3 = Business): 1<br>
+Created user: Ana (ID = 1)<br>
 
 ------------------------------------------------------------
 
