@@ -58,10 +58,13 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
+
 Choose: 1
 Enter name: Ana
 Choose type (1 = Student, 2 = Household, 3 = Business): 1
 Created user: Ana (ID = 1)
+
+------------------------------------------------------------
 
 Menu:
 1. Create user
@@ -70,6 +73,7 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
+
 Choose: 2
 Enter user ID: 1
 Date (MM-DD-YYYY) or leave blank for today:
@@ -79,6 +83,8 @@ Entry added.
 
 Amazing work! You're making a real difference!
 
+------------------------------------------------------------
+
 Menu:
 1. Create user
 2. Add daily entry
@@ -86,12 +92,14 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
-Choose: 3
 
+Choose: 3
 User 1 — Ana (Student)
 Entries:
-2025-11-27 — used: 120g, recycled/avoided: 30g
+  2025-11-27 — used: 120g, recycled/avoided: 30g
+
 Total reduced (grams): 30
+
 
 
 
