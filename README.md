@@ -92,5 +92,3 @@ Choose: 3
 User 1 — Ana (Student)
 Entries: 2025-11-27 — used: 120g, recycled/avoided: 30g
 Total reduced (grams): 30
-
-
