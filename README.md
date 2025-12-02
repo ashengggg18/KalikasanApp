@@ -49,7 +49,6 @@ Type:
 (You should now see the main menu, and you can begin interacting with the program by choosing options (1–5 or 0)).
 
 ## Sample Output
-
 Welcome to KALIKASAN — Plastic Waste Tracker
 
 Menu:
