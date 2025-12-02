@@ -49,6 +49,7 @@ Type:
 (You should now see the main menu, and you can begin interacting with the program by choosing options (1–5 or 0)).
 
 ## Sample Output
+```
 Welcome to KALIKASAN — Plastic Waste Tracker
 
 Menu:
@@ -57,14 +58,11 @@ Menu:
 3. Show user reports
 4. System summary
 5. Delete user
-0. Exit
-
-Choose: 1<br>
-Enter name: Ana<br>
-Choose type (1 = Student, 2 = Household, 3 = Business): 1<br>
-Created user: Ana (ID = 1)<br>
-
-------------------------------------------------------------
+0. Exit 
+Choose: 1
+Enter name: Ana
+Choose type (1=Student,2=Household,3=Business): 1
+Created user: Ana (ID=1)
 
 Menu:
 1. Create user
@@ -73,18 +71,15 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
-
-Choose: 2<br>
-Enter user ID: 1<br>
-Date (MM-DD-YYYY) or leave blank for today:<br>
-Plastic used (grams): 120<br>
-Plastic recycled/avoided (grams): 30<br>
-Entry added.<br>
+Choose: 2
+Enter user ID: 1
+Date (MM-DD-YYYY) or leave blank for today: 
+Plastic used (grams): 120
+Plastic recycled/avoided (grams): 30
+Entry added.
 
 Amazing work! You're making a real difference!
 
-------------------------------------------------------------
-
 Menu:
 1. Create user
 2. Add daily entry
@@ -92,25 +87,20 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
-
-Choose: 3<br>
-
-User 1 — Ana (Student)<br>
-
+Choose: 3
+User 1 — Ana (Student)
 Entries:
-  2025-11-27 — used: 120g, recycled/avoided: 30g<br>
+2025-11-27 — used: 120g, recycled/avoided: 30g
+Total reduced (grams): 30
 
-Total reduced (grams): 30<br>
-
-
-
+```
 ## Author and Acknowledgement
-Author:
-Lance Caringal
 
-Ashley Quinones
+**Authors:**  
+- Lance Caringal  
+- Ashley Quinones  
+- Gwen Mendoza  
 
-Gwen Mendoza
+We would like to express our sincere gratitude to **Sir Emmanuel Charlie Enriquez**, our instructor, for teaching us the principles of Java OOP and for guiding and supporting us throughout the development of this project. His advice and encouragement have greatly contributed to our understanding and growth.  
 
-We would like to express our sincere gratitude to **Sir Emmanuel Charlie Enriquez**, our instructor, for teaching us the principles of Java OOP, guiding and support us throughout the development of this project. His advice and encouragement have added to our growth in understanding, and we are grateful for the knowledge. Our group, for the cooperation, ideas, and constructive feedback that helped improve the final output.
-
+We also thank our group members for their cooperation, ideas, and constructive feedback, which helped improve the final output of this project.
